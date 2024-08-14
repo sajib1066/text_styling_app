@@ -1,4 +1,4 @@
-# greeting_app
+# text_styling_app
 
 A new Flutter project.
 
